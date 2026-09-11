@@ -33,6 +33,15 @@ Me apasiona el uso de la estadística, la programación y la optimización para 
 
 ## 💼 Experiencia
 
+***Bancolombia/Grupo Cibest***
+📅 *Enero 2026 – Julio 2026*
+📍 *Híbrido – Colombia*  
+**Analista 1 – Evolución y Mejora de Operación | Híbrido**
+
+- Implementé pipelines de datos para transformar información proveniente de sistemas AS/400 en datasets analíticos consumidos por dashboards de Power BI, reduciendo procesos manuales y mejorando la disponibilidad de información.
+- Desarrollé automatizaciones basadas en datos para la generación y distribución de notificaciones a clientes a partir de información operativa actualizada diariamente.
+- Participé en el mantenimiento y mejora de aplicaciones empresariales, aplicando análisis de datos y resolución de incidencias para fortalecer la calidad y confiabilidad de los sistemas.
+
 **TIGO Colombia / Millicom**  
 📅 *Enero 2025 – Julio 2025*  
 📍 *Híbrido – Colombia*  
@@ -41,7 +50,8 @@ Me apasiona el uso de la estadística, la programación y la optimización para 
 - Desarrollo de **modelos de predicción de churn** para el sector B2B usando **Python** y **CatBoost**.  
 - Análisis exploratorio de datos sobre más de **2 mil millones de registros**.  
 - Trabajo con **bases de datos distribuidas** en **AWS** y **Cloudera Impala**.  
-- Mentoría directa de ingenieros senior en analítica avanzada y manejo de datos masivos.  
+- Mentoría directa de ingenieros senior en analítica avanzada y manejo de datos masivos.
+
 
 ---
 
